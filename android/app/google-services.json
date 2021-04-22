@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022028970699",
+    "project_id": "fir-otpdemo-25dbc",
+    "storage_bucket": "fir-otpdemo-25dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022028970699:android:0a9efe1067a05f0e62b94e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_otp_verification_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022028970699-h6nkecd4v6qfpgv732mmpvtm0aetl7us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfL3OHElhjF_4sF_xGx37Oa15RTLZWlvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022028970699-h6nkecd4v6qfpgv732mmpvtm0aetl7us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
